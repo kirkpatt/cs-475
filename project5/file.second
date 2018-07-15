@@ -1,0 +1,155 @@
+
+    1024,   1,      1024,     0.014 GigaMultsPerSecond
+    2048,   1,      2048,     0.023 GigaMultsPerSecond
+    4096,   1,      4096,     0.050 GigaMultsPerSecond
+    8192,   1,      8192,     0.154 GigaMultsPerSecond
+   16384,   1,     16384,     0.298 GigaMultsPerSecond
+   32768,   1,     32768,     0.593 GigaMultsPerSecond
+   65536,   1,     65536,     1.576 GigaMultsPerSecond
+  131072,   1,    131072,     1.671 GigaMultsPerSecond
+  262144,   1,    262144,     0.214 GigaMultsPerSecond
+  524288,   1,    524288,     0.947 GigaMultsPerSecond
+ 1048576,   1,   1048576,     0.349 GigaMultsPerSecond
+ 2097152,   1,   2097152,     0.709 GigaMultsPerSecond
+ 4194304,   1,   4194304,     1.066 GigaMultsPerSecond
+ 8388608,   1,   8388608,     0.705 GigaMultsPerSecond
+    1024,   2,       512,     0.014 GigaMultsPerSecond
+    2048,   2,      1024,     0.026 GigaMultsPerSecond
+    4096,   2,      2048,     0.074 GigaMultsPerSecond
+    8192,   2,      4096,     0.080 GigaMultsPerSecond
+   16384,   2,      8192,     0.418 GigaMultsPerSecond
+   32768,   2,     16384,     0.512 GigaMultsPerSecond
+   65536,   2,     32768,     1.226 GigaMultsPerSecond
+  131072,   2,     65536,     2.680 GigaMultsPerSecond
+  262144,   2,    131072,     0.544 GigaMultsPerSecond
+  524288,   2,    262144,     0.580 GigaMultsPerSecond
+ 1048576,   2,    524288,     0.147 GigaMultsPerSecond
+ 2097152,   2,   1048576,     0.441 GigaMultsPerSecond
+ 4194304,   2,   2097152,     1.787 GigaMultsPerSecond
+ 8388608,   2,   4194304,     0.459 GigaMultsPerSecond
+    1024,   4,       256,     0.012 GigaMultsPerSecond
+    2048,   4,       512,     0.025 GigaMultsPerSecond
+    4096,   4,      1024,     0.057 GigaMultsPerSecond
+    8192,   4,      2048,     0.098 GigaMultsPerSecond
+   16384,   4,      4096,     0.198 GigaMultsPerSecond
+   32768,   4,      8192,     0.540 GigaMultsPerSecond
+   65536,   4,     16384,     0.487 GigaMultsPerSecond
+  131072,   4,     32768,     1.783 GigaMultsPerSecond
+  262144,   4,     65536,     0.034 GigaMultsPerSecond
+  524288,   4,    131072,     0.414 GigaMultsPerSecond
+ 1048576,   4,    262144,     0.569 GigaMultsPerSecond
+ 2097152,   4,    524288,     0.165 GigaMultsPerSecond
+ 4194304,   4,   1048576,     3.720 GigaMultsPerSecond
+ 8388608,   4,   2097152,     0.785 GigaMultsPerSecond
+    1024,   8,       128,     0.020 GigaMultsPerSecond
+    2048,   8,       256,     0.030 GigaMultsPerSecond
+    4096,   8,       512,     0.035 GigaMultsPerSecond
+    8192,   8,      1024,     0.113 GigaMultsPerSecond
+   16384,   8,      2048,     0.223 GigaMultsPerSecond
+   32768,   8,      4096,     0.450 GigaMultsPerSecond
+   65536,   8,      8192,     0.644 GigaMultsPerSecond
+  131072,   8,     16384,     1.628 GigaMultsPerSecond
+  262144,   8,     32768,     0.250 GigaMultsPerSecond
+  524288,   8,     65536,     0.756 GigaMultsPerSecond
+ 1048576,   8,    131072,     2.063 GigaMultsPerSecond
+ 2097152,   8,    262144,     0.699 GigaMultsPerSecond
+ 4194304,   8,    524288,     1.373 GigaMultsPerSecond
+ 8388608,   8,   1048576,     1.246 GigaMultsPerSecond
+    1024,  16,        64,     0.012 GigaMultsPerSecond
+    2048,  16,       128,     0.048 GigaMultsPerSecond
+    4096,  16,       256,     0.038 GigaMultsPerSecond
+    8192,  16,       512,     0.138 GigaMultsPerSecond
+   16384,  16,      1024,     0.277 GigaMultsPerSecond
+   32768,  16,      2048,     0.753 GigaMultsPerSecond
+   65536,  16,      4096,     0.864 GigaMultsPerSecond
+  131072,  16,      8192,     2.166 GigaMultsPerSecond
+  262144,  16,     16384,     0.517 GigaMultsPerSecond
+  524288,  16,     32768,     1.158 GigaMultsPerSecond
+ 1048576,  16,     65536,     0.114 GigaMultsPerSecond
+ 2097152,  16,    131072,     5.912 GigaMultsPerSecond
+ 4194304,  16,    262144,     3.143 GigaMultsPerSecond
+ 8388608,  16,    524288,    14.358 GigaMultsPerSecond
+    1024,  32,        32,     0.013 GigaMultsPerSecond
+    2048,  32,        64,     0.029 GigaMultsPerSecond
+    4096,  32,       128,     0.046 GigaMultsPerSecond
+    8192,  32,       256,     0.109 GigaMultsPerSecond
+   16384,  32,       512,     0.187 GigaMultsPerSecond
+   32768,  32,      1024,     0.433 GigaMultsPerSecond
+   65536,  32,      2048,     1.139 GigaMultsPerSecond
+  131072,  32,      4096,     1.718 GigaMultsPerSecond
+  262144,  32,      8192,     0.023 GigaMultsPerSecond
+  524288,  32,     16384,     0.907 GigaMultsPerSecond
+ 1048576,  32,     32768,     2.281 GigaMultsPerSecond
+ 2097152,  32,     65536,     3.317 GigaMultsPerSecond
+ 4194304,  32,    131072,     9.613 GigaMultsPerSecond
+ 8388608,  32,    262144,    13.235 GigaMultsPerSecond
+    1024,  64,        16,     0.012 GigaMultsPerSecond
+    2048,  64,        32,     0.027 GigaMultsPerSecond
+    4096,  64,        64,     0.057 GigaMultsPerSecond
+    8192,  64,       128,     0.094 GigaMultsPerSecond
+   16384,  64,       256,     0.301 GigaMultsPerSecond
+   32768,  64,       512,     0.311 GigaMultsPerSecond
+   65536,  64,      1024,     0.661 GigaMultsPerSecond
+  131072,  64,      2048,     1.572 GigaMultsPerSecond
+  262144,  64,      4096,     0.222 GigaMultsPerSecond
+  524288,  64,      8192,     1.148 GigaMultsPerSecond
+ 1048576,  64,     16384,     2.947 GigaMultsPerSecond
+ 2097152,  64,     32768,     2.259 GigaMultsPerSecond
+ 4194304,  64,     65536,     0.413 GigaMultsPerSecond
+ 8388608,  64,    131072,     9.247 GigaMultsPerSecond
+    1024, 128,         8,     0.012 GigaMultsPerSecond
+    2048, 128,        16,     0.034 GigaMultsPerSecond
+    4096, 128,        32,     0.053 GigaMultsPerSecond
+    8192, 128,        64,     0.122 GigaMultsPerSecond
+   16384, 128,       128,     0.213 GigaMultsPerSecond
+   32768, 128,       256,     0.507 GigaMultsPerSecond
+   65536, 128,       512,     0.802 GigaMultsPerSecond
+  131072, 128,      1024,     1.630 GigaMultsPerSecond
+  262144, 128,      2048,     0.478 GigaMultsPerSecond
+  524288, 128,      4096,     0.936 GigaMultsPerSecond
+ 1048576, 128,      8192,     2.453 GigaMultsPerSecond
+ 2097152, 128,     16384,     4.063 GigaMultsPerSecond
+ 4194304, 128,     32768,     4.609 GigaMultsPerSecond
+ 8388608, 128,     65536,    22.071 GigaMultsPerSecond
+    1024, 256,         4,     0.023 GigaMultsPerSecond
+    2048, 256,         8,     0.028 GigaMultsPerSecond
+    4096, 256,        16,     0.046 GigaMultsPerSecond
+    8192, 256,        32,     0.108 GigaMultsPerSecond
+   16384, 256,        64,     0.242 GigaMultsPerSecond
+   32768, 256,       128,     0.396 GigaMultsPerSecond
+   65536, 256,       256,     1.097 GigaMultsPerSecond
+  131072, 256,       512,     1.740 GigaMultsPerSecond
+  262144, 256,      1024,     0.751 GigaMultsPerSecond
+  524288, 256,      2048,     1.288 GigaMultsPerSecond
+ 1048576, 256,      4096,     1.424 GigaMultsPerSecond
+ 2097152, 256,      8192,     3.599 GigaMultsPerSecond
+ 4194304, 256,     16384,     8.397 GigaMultsPerSecond
+ 8388608, 256,     32768,     0.984 GigaMultsPerSecond
+    1024, 512,         2,     0.019 GigaMultsPerSecond
+    2048, 512,         4,     0.031 GigaMultsPerSecond
+    4096, 512,         8,     0.075 GigaMultsPerSecond
+    8192, 512,        16,     0.162 GigaMultsPerSecond
+   16384, 512,        32,     0.337 GigaMultsPerSecond
+   32768, 512,        64,     0.516 GigaMultsPerSecond
+   65536, 512,       128,     1.076 GigaMultsPerSecond
+  131072, 512,       256,     0.148 GigaMultsPerSecond
+  262144, 512,       512,     0.477 GigaMultsPerSecond
+  524288, 512,      1024,     0.400 GigaMultsPerSecond
+ 1048576, 512,      2048,     2.599 GigaMultsPerSecond
+ 2097152, 512,      4096,     1.430 GigaMultsPerSecond
+ 4194304, 512,      8192,     7.297 GigaMultsPerSecond
+ 8388608, 512,     16384,     0.651 GigaMultsPerSecond
+    1024,1024,         1,     0.010 GigaMultsPerSecond
+    2048,1024,         2,     0.043 GigaMultsPerSecond
+    4096,1024,         4,     0.041 GigaMultsPerSecond
+    8192,1024,         8,     0.167 GigaMultsPerSecond
+   16384,1024,        16,     0.193 GigaMultsPerSecond
+   32768,1024,        32,     0.378 GigaMultsPerSecond
+   65536,1024,        64,     0.795 GigaMultsPerSecond
+  131072,1024,       128,     1.482 GigaMultsPerSecond
+  262144,1024,       256,     0.598 GigaMultsPerSecond
+  524288,1024,       512,     0.984 GigaMultsPerSecond
+ 1048576,1024,      1024,     1.958 GigaMultsPerSecond
+ 2097152,1024,      2048,     4.747 GigaMultsPerSecond
+ 4194304,1024,      4096,     0.372 GigaMultsPerSecond
+ 8388608,1024,      8192,    19.003 GigaMultsPerSecond

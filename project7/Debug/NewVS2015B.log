@@ -1,0 +1,4 @@
+﻿  kirkpatt.cpp
+l:\school\parallel\project7\glui.h(758): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  NewVS2015B.vcxproj -> L:\School\parallel\project7\Debug\NewVS2015B.exe
